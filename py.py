@@ -1,1 +1,1 @@
-print("ok puta")
+print("ok")
